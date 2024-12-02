@@ -1,3 +1,6 @@
+##under devleopment
+
+
 Wi-Fi Evil Twin Attack Tool
 This project is a demonstration of a Wi-Fi Evil Twin attack. The tool creates a fake wireless access point (AP) that mimics a legitimate one to trick users into connecting. Once connected, data can be captured to analyze potential vulnerabilities.
 
